@@ -1,5 +1,4 @@
 # github/aboutme
- This is my first repository
 A result driven software quality assurance engineer with experience in manual testing environment.
 I am passionate about improving the quality of software and delivering great user experience product.
 I have a good knowledge of agile methodology and test practices.
